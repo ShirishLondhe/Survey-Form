@@ -2,7 +2,7 @@
 
 This is a survey form to gather feedback from users.
 
-You can see the live demo of the survey form **[Click here! :)](file:///D:/Major%20Projects/Hackathon%201.0/3.%20Survey%20Form/index.html)**
+You can see the live demo of the survey form **[Click here! :)](https://shirishlondhe.github.io/Survey-Form/)**
 
 The code for this survey form can be found in the following files:
 
