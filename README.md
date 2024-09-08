@@ -2,14 +2,15 @@
 
 This is a survey form to gather feedback from users.
 
-![Survey Form Image](img_surveyform_screenshot.png)  **Live Demo:**
-
-You can see the live demo of the survey form [here](index.html).  **Code:**
+You can see the live demo of the survey form **[Click here! :)](http://survey-form.surge.sh/)**
 
 The code for this survey form can be found in the following files:
 
 * `index.html`
 * `style.css`
+
+![Survey Form Image 1](surveyform_img1.png)  **Live Demo:**
+![Survey Form Image 2](surveyform_img2.png)  **Live Demo:**
 
 **Features:**
 
